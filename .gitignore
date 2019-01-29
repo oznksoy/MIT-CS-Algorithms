@@ -1,0 +1,7 @@
+/.metadata/
+/RemoteSystemsTempFiles/
+/*.synchtex.gz
+.project
+*.texlipse
+*.pydevproject
+*__pycache__
